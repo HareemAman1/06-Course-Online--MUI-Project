@@ -9,6 +9,7 @@ const Courses = () => {
 
   return (
     <Layout>
+      
       <Box sx={{ width: '50%', margin: '0 auto'}}>
         <Toolbar />
           <IconButton>

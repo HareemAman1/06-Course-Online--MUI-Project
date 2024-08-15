@@ -5,6 +5,7 @@ import '../styles/home.css'
 
 const Home = () => {
   return (
+
     <Layout>
         <div className="home" >
           <div className="headerContainer">
@@ -16,6 +17,7 @@ const Home = () => {
           </div>
         </div>
     </Layout>
+    
   )
 }
 
